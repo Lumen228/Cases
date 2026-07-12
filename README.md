@@ -46,7 +46,7 @@
 ### 📫 Контакты
 
 - **Email:** andreypusev298@gmail.com
-- **Telegram:** @AndreyLumen
+- **Telegram:** [@AndreyLumen](https://t.me/AndreyLumen)
 - **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/andreypusev)
 - **GitHub:** [github.com/your-username](https://github.com/Lumen228)
 
