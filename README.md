@@ -47,14 +47,22 @@
 
 ---
 
-## 🛠️ Инструменты
+## 🛠️ Инструментарий
 
-**Моделирование:** BPMN, UML, Draw.io, MS Visio  
-**Документирование:** Vision & Scope, SRS, User Stories, Markdown  
-**Управление требованиями:** MoSCoW, SWOT, матрицы стейкхолдеров, SMART  
-**Тестирование:** Use Case, Gherkin  
-**Коммуникация:** интервью, user stories, митинги  
-**Контроль версий:** Git, GitHub
+**Моделирование:**
+BPMN, UML (Activity), Use Case (диаграмма + текстовое описание, сценарии, альтернативные потоки), User Flow
+
+**Сбор и управление требованиями:**
+User Stories, MoSCoW, матрица стейкхолдеров, SMART-критерии, SWOT-анализ, интервью
+
+**Документирование:**
+Vision and Scope, Software Requirements Specification (SRS), Markdown
+
+**Описание критериев приемки:**
+Acceptance Criteria, Gherkin (Given-When-Then)
+
+**Инструменты:**
+Draw.io, MS Visio, Git, GitHub, Jira, Confluence
 
 ---
 
