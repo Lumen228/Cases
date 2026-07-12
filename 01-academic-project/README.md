@@ -5,8 +5,8 @@
 
 | Документ | Описание |
 |:---|:---|
-| [Vision and Scope](docs/01-vision-and-scope.md) | Определяет бизнес-контекст, цели, стейкхолдеров, риски и границы решения. |
-| [Software Requirements Specification](docs/02-software-requirements-specification.md) | Содержит полный перечень функциональных и нефункциональных требований, Use Cases, критерии приемки. |
+| [Vision and Scope](vision-and-scope.md) | Определяет бизнес-контекст, цели, стейкхолдеров, риски и границы решения. |
+| [Software Requirements Specification](system-requirements-specification.md) | Содержит полный перечень функциональных и нефункциональных требований, Use Cases, критерии приемки. |
 
 ---
 
@@ -30,9 +30,9 @@
 
 ---
 
-#### 2. BPMN Diagram
+#### 2. BPMN Diagram — Управление ТМЦ
 
-<img src="diagrams/bpmn-diagram.png" alt="BPMN Diagram" width="1000">
+<img src="diagrams/bpmn-diagram-asset-management.png" alt="BPMN Diagram" width="1000">
 
 *Модель бизнес-процесса в нотации BPMN*
 
@@ -63,7 +63,7 @@
 
 #### 4. User Flow — Просмотр овертайм-задачи
 
-<img src="diagrams/user-flow-overtime-task.png" alt="User Flow — View Overtime Task" width="800">
+<img src="diagrams/user-flow-view-overtime-task.png" alt="User Flow — View Overtime Task" width="800">
 
 *User Flow для сценария просмотра овертайм-задачи менеджером*
 
@@ -165,14 +165,6 @@
 | **Браузеры** | Google Chrome, Microsoft Edge (версии не ниже 140.0) |
 | **База данных** | Oracle |
 | **Язык разработки** | Java 25.0 |
-
----
-
-### 🔗 Ссылки на исходные файлы диаграмм
-
-- [Use Case Diagram (Draw.io)](sources/use-case-diagram.drawio)
-- [BPMN Diagram (Draw.io)](sources/bpmn-diagram.drawio)
-- [User Flow Diagram (Draw.io)](sources/user-flow-overtime-task.drawio)
 
 ---
 
