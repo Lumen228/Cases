@@ -45,10 +45,10 @@
 
 ### 📫 Контакты
 
-- **Email:** your.email@example.com
-- **Telegram:** @your_nickname
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **GitHub:** [github.com/your-username](https://github.com/your-username)
+- **Email:** andreypusev298@gmail.com
+- **Telegram:** @AndreyLumen
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/andreypusev)
+- **GitHub:** [github.com/your-username](https://github.com/Lumen228)
 
 ---
 
