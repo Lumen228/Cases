@@ -51,7 +51,3 @@
 - **GitHub:** [github.com/Lumen228](https://github.com/Lumen228)
 
 ---
-
-### 📝 Лицензия
-
-MIT License
