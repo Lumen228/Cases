@@ -47,8 +47,8 @@
 
 - **Email:** andreypusev298@gmail.com
 - **Telegram:** [@AndreyLumen](https://t.me/AndreyLumen)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/andreypusev)
-- **GitHub:** [github.com/your-username](https://github.com/Lumen228)
+- **LinkedIn:** [linkedin.com/in/andreypusev](https://linkedin.com/in/andreypusev)
+- **GitHub:** [github.com/Lumen228](https://github.com/Lumen228)
 
 ---
 
