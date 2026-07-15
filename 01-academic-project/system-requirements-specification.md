@@ -78,11 +78,14 @@
 
 ### 1.3. Ссылки
 
-* Закон Республики Беларусь "О защите персональных данных" 7 мая 2021 г. № 99-З — https://pravo.by/document/?guid=3871&p0=H12100099
+* Закон Республики Беларусь «О защите персональных данных» от 7 мая 2021 г. № 99-З — https://pravo.by/document/?guid=3871&p0=H12100099
 * Трудовой Кодекс Республики Беларусь от 8 июля 2024 г. № 25-З, статьи 119–122 — https://pravo.by/document/?guid=3871&p0=hk9900296
-* Vision and Scope — https://docs.google.com/document/d/1bl4BrJ9r-hiNqTNKbak7kUdjG_KQtiIfWQpnISU4-8A/edit?tab=t.0
-* Use Case diagram — https://app.diagrams.net/#G1HqqFrZectpC1ZeqDB7qSHzOSTDeiSr3y%23%7B%22pageId%22%3A%22dVIMJt56cVJ9eBFUudWO%22%7D
-* Визуальное представление системы — https://app.diagrams.net/#G1Q5fl07iRS3I_QDT5pB7mEOJ7y0q3DU6X%23%7B%22pageId%22%3A%22iz02W27PC5k7Ou4zES5Q%22%7D
+* Vision and Scope — [vision-and-scope.md](vision-and-scope.md)
+* Use Case Diagram — [diagrams/use-case-diagram.png](diagrams/use-case-diagram.png)
+* BPMN Diagram — [diagrams/bpmn-diagram-asset-management.png](diagrams/bpmn-diagram-asset-management.png)
+* Activity Diagram  (Фильтрация фидбеков) — [diagrams/activity-diagram-feedback-filter.png](diagrams/activity-diagram-feedback-filter.png)
+* User Flow (Просмотр овертайм-задачи) — [diagrams/user-flow-view-overtime-task.png](diagrams/user-flow-view-overtime-task.png)
+* System Visual Representation — [diagrams/system-visual-representation.png](diagrams/system-visual-representation.png)
 
 ---
 
