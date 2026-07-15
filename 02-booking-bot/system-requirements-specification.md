@@ -64,8 +64,9 @@
 
 - Закон Республики Беларусь «О защите персональных данных» от 7 мая 2021 г. № 99-З — https://pravo.by/document/?guid=3871&p0=H12100099
 - Telegram Bot API — https://core.telegram.org/bots/api
-- Vision and Scope — [ссылка на документ]
-- Use Case Diagram — [ссылка на диаграмму]
+- Vision and Scope — [vision-and-scope.md](vision-and-scope.md)
+- Use Case Diagram — [diagrams/use-case-diagram.svg](diagrams/use-case-diagram.svg)
+- System Mock-up (визуальное представление интерфейса) — [diagrams/system-mock-up.svg](diagrams/system-mock-up.svg)
 
 ---
 
