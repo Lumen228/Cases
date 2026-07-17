@@ -16,11 +16,11 @@
 
 **Логика работы решения:**
 
-<img src="diagrams/activity-diagram-scheduler.png" alt="Activity Diagram" width="600">
+<a href="diagrams/activity-diagram-scheduler.svg" target="_blank">
+  <img src="diagrams/activity-diagram-scheduler.svg" alt="Activity Diagram — Мониторинг и перезапуск терминального ПО посредством планировщика задач Windows" width="600">
+</a>
 
-*Логика работы планировщика задач Windows*
-
-**Что было сделано:**
+**Выполненные работы:**
 - проанализированы возможные причины сбоя;
 - выявлены косвенные признаки (человеческий фактор, средства Windows);
 - предложено и реализовано решение без изменения кода стороннего продукта;
