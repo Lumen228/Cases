@@ -52,7 +52,7 @@
 BPMN, UML (Activity), Use Case (диаграмма + текстовое описание, сценарии, альтернативные потоки), User Flow
 
 **Сбор и управление требованиями:**
-User Stories, MoSCoW, матрица стейкхолдеров, SMART-критерии, SWOT-анализ, интервью
+User story, MoSCoW, матрица стейкхолдеров, SMART-критерии, SWOT-анализ, интервью
 
 **Документирование:**
 Vision and Scope, Software Requirements Specification (SRS), Markdown
